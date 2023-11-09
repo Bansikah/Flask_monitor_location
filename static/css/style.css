@@ -9,10 +9,11 @@
   .section-content {
     flex: 1;
     align-items: center;
-    margin: 0 auto;
+    margin: 20 auto;
   }
-  
-  .section-device {
+   
+
+.section-device {
     flex: 1;
     margin-top: 20px;
   }
@@ -21,7 +22,8 @@
     width: 75%; /* Adjust the width as needed */
     height: auto;
   }
-  
+
+
   .section-content a {
     display: inline-block;
     padding: 10px 20px;
