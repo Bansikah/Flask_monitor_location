@@ -1,1 +1,1 @@
-gunicorn=web app=app
+gunicorn=web routes=app
